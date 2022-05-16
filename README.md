@@ -9,7 +9,7 @@ https://www.pexels.com/videos/
 ![image](https://user-images.githubusercontent.com/90014998/164339638-6f4c342a-24a5-4927-8903-1fb2c1098442.png)
 
 
-1. VideoCapture 함수를 통해 동영상 Fail Load
+1. VideoCapture 함수를 통해 동영상 File Load
 2. read 함수를 통해 배경 영상 받음
 3. cv2Color, GaussianBlur 함수를 통해 전처리
 4. 한 프레임씩 받아서 이미지 차 연산
